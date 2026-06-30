@@ -223,11 +223,7 @@ flowchart TD
         T["Tourisme & Sites"]
     end
 
-    DB <!---line break---->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<!---line break---->
-
-<br> CONTENT
+    DB --- CONTENT
 
     style FE fill:#1a2332,stroke:#00C9FF,color:#fff
     style BE fill:#1a2332,stroke:#4B0082,color:#fff
