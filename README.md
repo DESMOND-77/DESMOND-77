@@ -247,9 +247,19 @@ flowchart TD
   3. Utilise l'Action "athul/waka-readme" OU remplace simplement YOUR_WAKATIME_USERNAME ci-dessous.
 -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime stats"/>
+<!-- <p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=DESMOND-77&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime stats"/>
 </p>
+<p align="center">
+  <figure><embed src="https://wakatime.com/share/@DESMOND_77/d373e299-d0e5-4896-be5c-dc4431ef8702.svg"></embed></figure>
+</p> -->
+
+[![desmond's GitHub stats](https://github-stats-extended.vercel.app/api?username=DESMOND-77)](https://github.com/stats-organization/github-stats-extended)
+
+[![wakatime](https://wakatime.com/badge/user/b4ac2db0-d36f-4807-86fb-1f422a36a59d/project/e8d8a247-15c9-4e09-bccc-5ad2478003b6.svg)](https://wakatime.com/badge/user/b4ac2db0-d36f-4807-86fb-1f422a36a59d/project/e8d8a247-15c9-4e09-bccc-5ad2478003b6)
+
+[![wakatime](https://wakatime.com/badge/user/b4ac2db0-d36f-4807-86fb-1f422a36a59d.svg)](https://wakatime.com/@b4ac2db0-d36f-4807-86fb-1f422a36a59d)
+
 
 ---
 
