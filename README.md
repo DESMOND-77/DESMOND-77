@@ -1,14 +1,14 @@
 <!-- ========================= HEADER ========================= -->
 
-<p align="center">
+<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:4B0082&height=250&section=header&text=Desmond%20GUIMAPI&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Flutter+Developer;AI+Automation+Engineer;n8n+Workflow+Builder;Network+%26+Telecommunication+Student;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
-</p>
+</div>
 
 <h2 align="center">
 Hi 👋 I'm Desmond
@@ -19,39 +19,49 @@ Full Stack • Flutter • AI • Automation • Networks • DevOps
 </h4>
 
 <!-- Profile views counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DESMOND-77&label=Profile%20views&color=00C9FF&style=flat" alt="profile views" />
-</p>
+<div align="center">
 
----
+  ![profile views](https://komarev.com/ghpvc/?username=DESMOND-77&label=Profile%20views&color=dc177c&style=plastic)
 
-<!-- ========================= DEVELOPER GIF / ILLUSTRATION ========================= -->
+</div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="420" alt="Developer animation"/>
-</p>
+<!---line break---->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<!---line break---->
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding banner"/>
-</p>
-
----
+<br>
 
 # 👨🏽‍💻 About Me
 
 🎓 Network & Telecommunications Engineering student (USTM)
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360" alt="Developer animation"/>
+
+<div align="left">
+  <samp>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 💙 Passionate about
 
-- 🤖 Artificial Intelligence
-- 📱 Flutter Cross-Platform Development
-- 🌐 Full Stack Web Development
-- ⚙️ Workflow Automation (n8n)
-- ☁️ DevOps
-- 🔐 Cybersecurity
-- 🐧 Linux
+  - 🤖 Artificial Intelligence
+  - 📱 Flutter Cross-Platform Development
+  - 🌐 Full Stack Web Development
+  - ⚙️ Workflow Automation (n8n)
+  - ☁️ DevOps
+  - 🔐 Cybersecurity
+  - 🐧 Linux
 
----
+  <p>&nbsp;</p>
+  </samp>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding banner"/>
+</div>
+
+<br>
 
 # 🚀 Currently Working On
 
@@ -67,61 +77,71 @@ Full Stack • Flutter • AI • Automation • Networks • DevOps
 
 ✅ Lunch Ordering Platform
 
----
+<!---line break---->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<!---line break---->
+
+<br>
 
 # 🏅 Certifications
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.credly.com/badges/9cc321ac-5510-4fb3-b7d1-c9d876ed98cb" target="_blank">
   <img src="https://img.shields.io/badge/Cisco-Network_Addressing_%26_Basic_Troubleshooting-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco - Network Addressing and Basic Troubleshooting"/>
 </a>
 
-</p>
+</div>
 
-<!--
-  Astuce : pour afficher l'image officielle du badge Credly à la place du badge Shields,
-  ouvre ton badge sur Credly → "Share" → "Embed" et remplace le bloc ci-dessus par l'<img> fourni.
-  Tu peux empiler ici tes futures certifs (CCNA, Linux, etc.) sur le même modèle.
--->
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9cc321ac-5510-4fb3-b7d1-c9d876ed98cb" data-share-badge-host="https://www.credly.com"></div>
 
----
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<!---line break---->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<!---line break---->
+
+<br>
 
 # 💻 Tech Stack
 
 ## Languages
 
-<p>
+<div>
   <img src="https://skillicons.dev/icons?i=python,php,dart,js,html,css,cpp,bash"/>
-</p>
+</div>
 
 ## Frameworks
 
-<p>
+<div>
   <img src="https://skillicons.dev/icons?i=flutter,django,tailwind,bootstrap"/>
-</p>
+</div>
 
 ## Databases
 
-<p>
+<div>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite"/>
-</p>
+</div>
 
 ## DevOps
 
-<p>
+<div>
   <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,docker"/>
-</p>
+</div>
 
 ## AI & Automation
 
-<p>
+<div>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
   <img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge">
   <img src="https://img.shields.io/badge/OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white">
-</p>
+</div>
 
----
+<!---line break---->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<!---line break---->
+
+<br>
 
 # 📌 Featured Projects
 
@@ -130,43 +150,47 @@ Full Stack • Flutter • AI • Automation • Networks • DevOps
   Elles se mettent à jour toutes seules quand tu modifies un repo.
 -->
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/DESMOND-77/CONNA-TRE_LE_GABON.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DESMOND-77&repo=CONNA-TRE_LE_GABON.github.io&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=DESMOND-77&repo=CONNA-TRE_LE_GABON.github.io&theme=chartreuse-dark&hide_border=true" />
 </a>
 
 <a href="https://github.com/DESMOND-77/gestpar_flutter_frontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DESMOND-77&repo=gestpar_flutter_frontend&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=DESMOND-77&repo=gestpar_flutter_frontend&theme=chartreuse-dark&hide_border=true" />
 </a>
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/DESMOND-77/Django_JWT_AUTH_API">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DESMOND-77&repo=Django_JWT_AUTH_API&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=DESMOND-77&repo=Django_JWT_AUTH_API&theme=chartreuse-dark&hide_border=true" />
 </a>
 
 <a href="https://github.com/DESMOND-77/projet_pointeurs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DESMOND-77&repo=projet_pointeurs&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=DESMOND-77&repo=projet_pointeurs&theme=chartreuse-dark&hide_border=true" />
 </a>
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/DESMOND-77/ubuntu_servers_installation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DESMOND-77&repo=ubuntu_servers_installation&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=DESMOND-77&repo=ubuntu_servers_installation&theme=chartreuse-dark&hide_border=true" />
 </a>
 
 <a href="https://github.com/DESMOND-77/Gestion_paroissiale">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DESMOND-77&repo=Gestion_paroissiale&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=DESMOND-77&repo=Gestion_paroissiale&theme=chartreuse-dark&hide_border=true" />
 </a>
 
-</p>
+</div>
 
----
+<!---line break---->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<!---line break---->
+
+<br>
 
 # 🌍 Architecture — « Connaître le Gabon »
 
@@ -199,7 +223,11 @@ flowchart TD
         T["Tourisme & Sites"]
     end
 
-    DB --- CONTENT
+    DB <!---line break---->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<!---line break---->
+
+<br> CONTENT
 
     style FE fill:#1a2332,stroke:#00C9FF,color:#fff
     style BE fill:#1a2332,stroke:#4B0082,color:#fff
@@ -211,32 +239,51 @@ flowchart TD
 
 > 💡 Adapte ce schéma à ta vraie stack (ajoute une API REST, un cache, un CDN… selon ton implémentation).
 
----
+<!---line break---->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<!---line break---->
+
+<br>
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DESMOND-77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DESMOND-77&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
----
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=DESMOND-77&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true"/>
+
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DESMOND-77&langs_count=8&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
+</div>
+
+<!---line break---->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<!---line break---->
+
+<br>
 
 # 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DESMOND-77&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=DESMOND-77&theme=chartreuse-dark&hide_border=true"/>
+</div>
 
----
+<!---line break---->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<!---line break---->
+
+<br>
 
 # 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DESMOND-77&theme=tokyo-night&hide_border=true"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DESMOND-77&theme=chartreuse-dark&hide_border=true"/>
+</div>
 
----
+<!---line break---->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<!---line break---->
+
+<br>
 
 # ⏱️ WakaTime — Temps de code par langage
 
@@ -247,21 +294,14 @@ flowchart TD
   3. Utilise l'Action "athul/waka-readme" OU remplace simplement YOUR_WAKATIME_USERNAME ci-dessous.
 -->
 
-<!-- <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=DESMOND-77&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime stats"/>
-</p>
-<p align="center">
-  <figure><embed src="https://wakatime.com/share/@DESMOND_77/d373e299-d0e5-4896-be5c-dc4431ef8702.svg"></embed></figure>
-</p> -->
-
-[![desmond's GitHub stats](https://github-stats-extended.vercel.app/api?username=DESMOND-77)](https://github.com/stats-organization/github-stats-extended)
-
 [![wakatime](https://wakatime.com/badge/user/b4ac2db0-d36f-4807-86fb-1f422a36a59d/project/e8d8a247-15c9-4e09-bccc-5ad2478003b6.svg)](https://wakatime.com/badge/user/b4ac2db0-d36f-4807-86fb-1f422a36a59d/project/e8d8a247-15c9-4e09-bccc-5ad2478003b6)
 
-[![wakatime](https://wakatime.com/badge/user/b4ac2db0-d36f-4807-86fb-1f422a36a59d.svg)](https://wakatime.com/@b4ac2db0-d36f-4807-86fb-1f422a36a59d)
 
+<!---line break---->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<!---line break---->
 
----
+<br>
 
 # 🎧 Now Playing on Spotify
 
@@ -272,13 +312,17 @@ flowchart TD
   3. Remplace l'URL ci-dessous par celle générée pour toi.
 -->
 
-<p align="center">
+<div align="center">
   <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID" target="_blank">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing"/>
   </a>
-</p>
+</div>
 
----
+<!---line break---->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<!---line break---->
+
+<br>
 
 # ⬇️ Project Downloads
 
@@ -288,29 +332,43 @@ flowchart TD
   Crée une release (Releases → Draft a new release) puis dé-commente la ligne voulue.
 -->
 
-<p align="center">
+<div align="center">
   <!-- <img src="https://img.shields.io/github/downloads/DESMOND-77/gestpar_flutter_frontend/total?style=for-the-badge&color=00C9FF&label=Flutter%20App%20Downloads"/> -->
-  <!-- <img src="https://img.shields.io/github/downloads/DESMOND-77/ubuntu_servers_installation/total?style=for-the-badge&color=4B0082&label=Scripts%20Downloads"/> -->
+  <img src="https://img.shields.io/github/downloads/DESMOND-77/ubuntu_servers_installation/total?style=for-the-badge&color=4B0082&label=Scripts%20Downloads"/>
   <img src="https://img.shields.io/badge/Publie_une_release_pour_activer_les_compteurs-grey?style=for-the-badge"/>
-</p>
+</div>
 
----
+<!---line break---->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<!---line break---->
+
+<br>
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DESMOND-77&theme=tokyonight&no-frame=true&row=2&column=4"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-repo.vercel.app/?username=DESMOND-77&theme=algolia&no-frame=true&no-bg=true&column=4"/>
+</div>
 
----
+<!---line break---->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<!---line break---->
+
+<br>
 
 # 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DESMOND-77/DESMOND-77/output/github-contribution-grid-snake-dark.svg">
-</p>
+<div align="center">
+  
+  ![GitHub Snake Animation](https://github.com/DESMOND-77/DESMOND-77/blob/output/github-snake.svg)
+  
+</div>
 
----
+<!---line break---->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<!---line break---->
+
+<br>
 
 # 🎯 Fun Facts
 
@@ -321,34 +379,50 @@ flowchart TD
 - 🌍 Je construis des projets qui parlent de mon pays, le **Gabon** 🇬🇦.
 - 🔄 Ma devise de dev : *Code. Learn. Automate. Build. Repeat.*
 
----
+<!---line break---->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<!---line break---->
+
+<br>
 
 # 🌍 Connect With Me
 
-<p align="center">
+<div style="display:flex;justify-content:space-around">
 
-<a href="#">
+<a href="www.linkedin.com/in/desmond-clos-guimapi-535a83277">
   <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="#">
+<a href="mailto:guimapidesmond@outlook.com">
   <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="#">
-  <img src="https://skillicons.dev/icons?i=twitter"/>
+  <img src="https://skillicons.dev/icons?i=discord"/>
 </a>
 
-</p>
+</div>
 
----
+<!---line break---->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<!---line break---->
+
+<br>
 
 # 💡 Quote
 
 > **"Code. Learn. Automate. Build. Repeat."**
 
----
+<br>
 
+<hr color="navyblue">
 <p align="center">
+   <img align='center' src="https://i.ibb.co/fqMN3QP/technologist-desktop.gif" width="25%" alt="giphy">
+   <br>
+   <i>Dont Waste Time get back to work.</i>
+   <br>
+<br>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:00C9FF&height=120&section=footer"/>
-</p>
+</div>
