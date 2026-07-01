@@ -95,8 +95,6 @@ Full Stack • Flutter • AI • Automation • Networks • DevOps
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9cc321ac-5510-4fb3-b7d1-c9d876ed98cb" data-share-badge-host="https://www.credly.com"></div>
 
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 <!---line break---->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <!---line break---->
@@ -233,8 +231,6 @@ flowchart TD
     style MAP fill:#0f3460,stroke:#00C9FF,color:#fff
 ```
 
-> 💡 Adapte ce schéma à ta vraie stack (ajoute une API REST, un cache, un CDN… selon ton implémentation).
-
 <!---line break---->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <!---line break---->
@@ -299,7 +295,7 @@ flowchart TD
 
 <br>
 
-# 🎧 Now Playing on Spotify
+<!-- # 🎧 Now Playing on Spotify
 
 <!--
   POUR ACTIVER (déploiement rapide) :
@@ -307,19 +303,19 @@ flowchart TD
   2. Connecte ton compte Spotify (1 clic) → tu obtiens une URL avec ton uid.
   3. Remplace l'URL ci-dessous par celle générée pour toi.
 -->
-
+<!--
 <div align="center">
   <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID" target="_blank">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing"/>
   </a>
 </div>
 
-<!---line break---->
+<!---line break----
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<!---line break---->
+<!---line break----
 
 <br>
-
+---->
 # ⬇️ Project Downloads
 
 <!--
