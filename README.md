@@ -63,6 +63,7 @@ Full Stack • Flutter • AI • Automation • Networks • DevOps
 
 <br>
 
+
 # 🚀 Currently Working On
 
 ✅ AI Agents with n8n + Ollama + GPT
@@ -130,9 +131,17 @@ Full Stack • Flutter • AI • Automation • Networks • DevOps
 ## AI & Automation
 
 <div>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
-  <img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&logoSize=auto">
+
+  <img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama&logoColor=white&logoSize=auto">
+
+  <img src="https://img.shields.io/badge/Openai-blue?style=for-the-badge&logo=openai&logoColor=white&logoSize=auto">
+
+  <img src="https://img.shields.io/badge/openrouter-8693BE?style=for-the-badge&logo=openrouter&logoColor=19106F&logoSize=auto">
+
+  <img src="https://img.shields.io/badge/huggingface-0F43FF?style=for-the-badge&logo=huggingface&logoColor=DBFF0F&logoSize=auto">
+
+  <img src="https://img.shields.io/badge/claude-orange?style=for-the-badge&logo=claude&logoColor=white&logoSize=auto">
 </div>
 
 <!---line break---->
@@ -371,6 +380,7 @@ flowchart TD
 - 🌍 Je construis des projets qui parlent de mon pays, le **Gabon** 🇬🇦.
 - 🔄 Ma devise de dev : *Code. Learn. Automate. Build. Repeat.*
 
+
 <!---line break---->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <!---line break---->
@@ -379,9 +389,9 @@ flowchart TD
 
 # 🌍 Connect With Me
 
-<div style="display:flex;justify-content:space-around">
+<div align="center">
 
-<a href="www.linkedin.com/in/desmond-clos-guimapi-535a83277">
+<a href="https://www.linkedin.com/in/desmond-clos-guimapi-535a83277">
   <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -408,12 +418,12 @@ flowchart TD
 <br>
 
 <hr color="navyblue">
+
 <p align="center">
-   <img align='center' src="https://i.ibb.co/fqMN3QP/technologist-desktop.gif" width="25%" alt="giphy">
+   <img align="center" src="https://i.ibb.co/fqMN3QP/technologist-desktop.gif" width="25%" alt="giphy">
    <br>
-   <i>Dont Waste Time get back to work.</i>
-   <br>
-<br>
+   <i>Don't Waste Time, get back to work.</i>
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:00C9FF&height=120&section=footer"/>
