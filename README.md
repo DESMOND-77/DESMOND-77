@@ -1,430 +1,97 @@
-<!-- ========================= HEADER ========================= -->
+# Desmond GUIMAPI 👋
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:4B0082&height=250&section=header&text=Desmond%20GUIMAPI&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-</div>
+![Desmond GUIMAPI profile banner](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:4B0082&height=220&section=header&text=Desmond%20GUIMAPI&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
-<div align="center">
+![Full-stack developer, Flutter developer, AI automation engineer, and network student](https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Flutter+Developer;AI+Automation+Engineer;n8n+Workflow+Builder;Network+%26+Telecommunication+Student;Open+Source+Enthusiast)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Flutter+Developer;AI+Automation+Engineer;n8n+Workflow+Builder;Network+%26+Telecommunication+Student;Open+Source+Enthusiast)](https://git.io/typing-svg)
+![Profile views](https://komarev.com/ghpvc/?username=DESMOND-77&label=Profile%20views&color=dc177c&style=flat)
 
-</div>
+Network and Telecommunications Engineering student at **USTM**, based in Gabon. I build web and Flutter applications, automate workflows, and explore network engineering and DevOps.
 
-<h2 align="center">
-Hi 👋 I'm Desmond
-</h2>
+## Current focus
 
-<h4 align="center">
-Full Stack • Flutter • AI • Automation • Networks • DevOps
-</h4>
+- AI agents and workflow automation with n8n, Ollama, and language-model APIs
+- Flutter applications and Django/PHP web applications
+- Network automation and Linux infrastructure
+- Projects that share Gabonese culture and solve practical community needs
 
-<!-- Profile views counter -->
-<div align="center">
+## Featured projects
 
-  ![profile views](https://komarev.com/ghpvc/?username=DESMOND-77&label=Profile%20views&color=dc177c&style=plastic)
+### [Connaître le Gabon](https://github.com/DESMOND-77/CONNA-TRE_LE_GABON.github.io)
 
-</div>
+An interactive guide to Gabonese history, culture, natural resources, national parks, and heritage.
 
-<!---line break---->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<!---line break---->
+**Stack:** PHP, MySQL, JavaScript, HTML/CSS, and Tailwind CSS.
 
-<br>
+### [Gestion Paroissiale — Flutter app](https://github.com/DESMOND-77/Gestion_paroissial_flutter_frontend)
 
-# 👨🏽‍💻 About Me
+A multiplatform, offline-first parish-management app for members, groups, events, finances, and a parish library. [Live demo](https://gestiparr.vercel.app)
 
-🎓 Network & Telecommunications Engineering student (USTM)
+**Stack:** Flutter and Dart; connects to a Django REST API.
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360" alt="Developer animation"/>
+### [ScholarFlow — school management API](https://github.com/DESMOND-77/Django_JWT_AUTH_API)
 
-<div align="left">
-  <samp>
+A Django REST API for school administration, with JWT authentication, role-based access, email verification, and API documentation.
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+**Stack:** Python, Django REST Framework, and PostgreSQL.
 
-💙 Passionate about
+### [Gestion Paroissiale — REST API](https://github.com/DESMOND-77/Gestion_paroissiale)
 
-  - 🤖 Artificial Intelligence
-  - 📱 Flutter Cross-Platform Development
-  - 🌐 Full Stack Web Development
-  - ⚙️ Workflow Automation (n8n)
-  - ☁️ DevOps
-  - 🔐 Cybersecurity
-  - 🐧 Linux
+A Django REST API for parish operations, including member, group, event, finance, and library management.
 
-  <p>&nbsp;</p>
-  </samp>
-</div>
+**Stack:** Python, Django, Django REST Framework, and JWT.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding banner"/>
-</div>
+### [Internal messaging system](https://github.com/DESMOND-77/projet_pointeurs)
 
-<br>
+An academic C project for role-based internal messaging in an educational institution, with modular code and CSV/file handling.
 
+### [Ubuntu server installation scripts](https://github.com/DESMOND-77/ubuntu_servers_installation)
 
-# 🚀 Currently Working On
+Scripts and guides for setting up Ubuntu development and server environments, including LAMP, WireGuard, Zabbix, Asterisk, and DevOps tools.
 
-✅ AI Agents with n8n + Ollama + GPT
+## Certification
 
-✅ Flutter Mobile Applications
+[![Cisco — Network Addressing and Basic Troubleshooting](https://img.shields.io/badge/Cisco-Network_Addressing_%26_Basic_Troubleshooting-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/9cc321ac-5510-4fb3-b7d1-c9d876ed98cb)
 
-✅ Django & PHP Web Applications
+## Tech stack
 
-✅ Network Automation
+### Languages
 
-✅ "Connaître le Gabon"
+![Python, PHP, Dart, JavaScript, HTML, CSS, C++, and Bash](https://skillicons.dev/icons?i=python,php,dart,js,html,css,cpp,bash)
 
-✅ Lunch Ordering Platform
+### Frameworks
 
-<!---line break---->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<!---line break---->
+![Flutter, Django, Tailwind CSS, and Bootstrap](https://skillicons.dev/icons?i=flutter,django,tailwind,bootstrap)
 
-<br>
+### Databases
 
-# 🏅 Certifications
+![MySQL, PostgreSQL, and SQLite](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)
 
-<div align="center">
+### Tools
 
-<a href="https://www.credly.com/badges/9cc321ac-5510-4fb3-b7d1-c9d876ed98cb" target="_blank">
-  <img src="https://img.shields.io/badge/Cisco-Network_Addressing_%26_Basic_Troubleshooting-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco - Network Addressing and Basic Troubleshooting"/>
-</a>
+![Git, GitHub, Linux, Ubuntu, and Docker](https://skillicons.dev/icons?i=git,github,linux,ubuntu,docker)
 
-</div>
+**AI and automation:** n8n · Ollama · OpenAI · OpenRouter · Hugging Face · Claude
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9cc321ac-5510-4fb3-b7d1-c9d876ed98cb" data-share-badge-host="https://www.credly.com"></div>
+## GitHub activity
 
-<!---line break---->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<!---line break---->
+![GitHub statistics for DESMOND-77](https://github-stats-extended.vercel.app/api?username=DESMOND-77&show_icons=true&theme=chartreuse-dark&hide_border=true)
 
-<br>
+![Most-used languages for DESMOND-77](https://github-stats-extended.vercel.app/api/top-langs/?username=DESMOND-77&langs_count=8&layout=compact&theme=chartreuse-dark&hide_border=true)
 
-# 💻 Tech Stack
+![Contribution activity graph for DESMOND-77](https://github-readme-activity-graph.vercel.app/graph?username=DESMOND-77&theme=chartreuse-dark&hide_border=true)
 
-## Languages
+## WakaTime
 
-<div>
-  <img src="https://skillicons.dev/icons?i=python,php,dart,js,html,css,cpp,bash"/>
-</div>
+[![WakaTime activity for the selected project](https://wakatime.com/badge/user/b4ac2db0-d36f-4807-86fb-1f422a36a59d/project/e8d8a247-15c9-4e09-bccc-5ad2478003b6.svg)](https://wakatime.com/badge/user/b4ac2db0-d36f-4807-86fb-1f422a36a59d/project/e8d8a247-15c9-4e09-bccc-5ad2478003b6)
 
-## Frameworks
+## Contribution snake
 
-<div>
-  <img src="https://skillicons.dev/icons?i=flutter,django,tailwind,bootstrap"/>
-</div>
+![Animated GitHub contribution snake](https://raw.githubusercontent.com/DESMOND-77/DESMOND-77/output/github-snake.svg)
 
-## Databases
+## Connect
 
-<div>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite"/>
-</div>
+- [LinkedIn](https://www.linkedin.com/in/desmond-clos-guimapi-535a83277)
+- [Email](mailto:guimapidesmond@outlook.com)
 
-## DevOps
-
-<div>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,docker"/>
-</div>
-
-## AI & Automation
-
-<div>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&logoSize=auto">
-
-  <img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama&logoColor=white&logoSize=auto">
-
-  <img src="https://img.shields.io/badge/Openai-blue?style=for-the-badge&logo=openai&logoColor=white&logoSize=auto">
-
-  <img src="https://img.shields.io/badge/openrouter-8693BE?style=for-the-badge&logo=openrouter&logoColor=19106F&logoSize=auto">
-
-  <img src="https://img.shields.io/badge/huggingface-0F43FF?style=for-the-badge&logo=huggingface&logoColor=DBFF0F&logoSize=auto">
-
-  <img src="https://img.shields.io/badge/claude-orange?style=for-the-badge&logo=claude&logoColor=white&logoSize=auto">
-</div>
-
-<!---line break---->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<!---line break---->
-
-<br>
-
-# 📌 Featured Projects
-
-<!--
-  Ces cartes affichent AUTOMATIQUEMENT le nom, la description et le nombre d'étoiles de chaque dépôt.
-  Elles se mettent à jour toutes seules quand tu modifies un repo.
--->
-
-<div align="center">
-
-<a href="https://github.com/DESMOND-77/CONNA-TRE_LE_GABON.github.io">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=DESMOND-77&repo=CONNA-TRE_LE_GABON.github.io&theme=chartreuse-dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/DESMOND-77/gestpar_flutter_frontend">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=DESMOND-77&repo=gestpar_flutter_frontend&theme=chartreuse-dark&hide_border=true" />
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/DESMOND-77/Django_JWT_AUTH_API">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=DESMOND-77&repo=Django_JWT_AUTH_API&theme=chartreuse-dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/DESMOND-77/projet_pointeurs">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=DESMOND-77&repo=projet_pointeurs&theme=chartreuse-dark&hide_border=true" />
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/DESMOND-77/ubuntu_servers_installation">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=DESMOND-77&repo=ubuntu_servers_installation&theme=chartreuse-dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/DESMOND-77/Gestion_paroissiale">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=DESMOND-77&repo=Gestion_paroissiale&theme=chartreuse-dark&hide_border=true" />
-</a>
-
-</div>
-
-<!---line break---->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<!---line break---->
-
-<br>
-
-# 🌍 Architecture — « Connaître le Gabon »
-
-<!-- GitHub rend Mermaid nativement : ce schéma s'affiche directement dans le README -->
-
-```mermaid
-flowchart TD
-    U["👤 Visiteur / Browser"] -->|HTTPS| FE
-
-    subgraph FE["🖥️ Frontend"]
-        H["HTML5"]
-        C["CSS3 / Tailwind"]
-        J["JavaScript"]
-    end
-
-    FE -->|Requêtes HTTP| BE
-
-    subgraph BE["⚙️ Backend - PHP"]
-        R["Routeur / Contrôleurs"]
-        S["Services métier"]
-        AUTH["Authentification"]
-    end
-
-    BE -->|SQL| DB[("🗄️ MySQL")]
-    BE -->|Appels API| MAP["🗺️ API Cartographie"]
-
-    subgraph CONTENT["📚 Contenus Gabon"]
-        P["Provinces & Villes"]
-        CU["Culture & Histoire"]
-        T["Tourisme & Sites"]
-    end
-
-    DB --- CONTENT
-
-    style FE fill:#1a2332,stroke:#00C9FF,color:#fff
-    style BE fill:#1a2332,stroke:#4B0082,color:#fff
-    style DB fill:#0f3460,stroke:#00C9FF,color:#fff
-    style CONTENT fill:#16213e,stroke:#00C9FF,color:#fff
-    style U fill:#4B0082,stroke:#00C9FF,color:#fff
-    style MAP fill:#0f3460,stroke:#00C9FF,color:#fff
-```
-
-<!---line break---->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<!---line break---->
-
-<br>
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=DESMOND-77&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true"/>
-
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DESMOND-77&langs_count=8&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
-</div>
-
-<!---line break---->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<!---line break---->
-
-<br>
-
-# 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=DESMOND-77&theme=chartreuse-dark&hide_border=true"/>
-</div>
-
-<!---line break---->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<!---line break---->
-
-<br>
-
-# 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DESMOND-77&theme=chartreuse-dark&hide_border=true"/>
-</div>
-
-<!---line break---->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<!---line break---->
-
-<br>
-
-# ⏱️ WakaTime — Temps de code par langage
-
-<!--
-  POUR ACTIVER :
-  1. Crée un compte sur https://wakatime.com et installe le plugin dans VS Code / ton IDE.
-  2. Dans GitHub : ajoute le secret WAKATIME_API_KEY (Settings → Secrets → Actions).
-  3. Utilise l'Action "athul/waka-readme" OU remplace simplement YOUR_WAKATIME_USERNAME ci-dessous.
--->
-
-[![wakatime](https://wakatime.com/badge/user/b4ac2db0-d36f-4807-86fb-1f422a36a59d/project/e8d8a247-15c9-4e09-bccc-5ad2478003b6.svg)](https://wakatime.com/badge/user/b4ac2db0-d36f-4807-86fb-1f422a36a59d/project/e8d8a247-15c9-4e09-bccc-5ad2478003b6)
-
-
-<!---line break---->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<!---line break---->
-
-<br>
-
-<!-- # 🎧 Now Playing on Spotify
-
-<!--
-  POUR ACTIVER (déploiement rapide) :
-  1. Va sur https://github.com/kittinan/spotify-github-profile
-  2. Connecte ton compte Spotify (1 clic) → tu obtiens une URL avec ton uid.
-  3. Remplace l'URL ci-dessous par celle générée pour toi.
--->
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing"/>
-  </a>
-</div>
-
-<!---line break----
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<!---line break----
-
-<br>
----->
-# ⬇️ Project Downloads
-
-<!--
-  Ces badges comptent les téléchargements des RELEASES GitHub.
-  Ils ne s'afficheront que pour les repos qui ont au moins une release publiée.
-  Crée une release (Releases → Draft a new release) puis dé-commente la ligne voulue.
--->
-
-<div align="center">
-  <!-- <img src="https://img.shields.io/github/downloads/DESMOND-77/gestpar_flutter_frontend/total?style=for-the-badge&color=00C9FF&label=Flutter%20App%20Downloads"/> -->
-  <img src="https://img.shields.io/github/downloads/DESMOND-77/ubuntu_servers_installation/total?style=for-the-badge&color=4B0082&label=Scripts%20Downloads"/>
-  <img src="https://img.shields.io/badge/Publie_une_release_pour_activer_les_compteurs-grey?style=for-the-badge"/>
-</div>
-
-<!---line break---->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<!---line break---->
-
-<br>
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-repo.vercel.app/?username=DESMOND-77&theme=algolia&no-frame=true&no-bg=true&column=4"/>
-</div>
-
-<!---line break---->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<!---line break---->
-
-<br>
-
-# 🐍 Contribution Snake
-
-<div align="center">
-  
-  ![GitHub Snake Animation](https://github.com/DESMOND-77/DESMOND-77/blob/output/github-snake.svg)
-  
-</div>
-
-<!---line break---->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<!---line break---->
-
-<br>
-
-# 🎯 Fun Facts
-
-- 🤖 J'adore **automatiser les tâches répétitives** — si je le fais deux fois, je le scripte.
-- 🐧 Je travaille principalement sous **Ubuntu / Linux** (avec un terminal `zsh` cyberpunk 😎).
-- ☕ Mon combo préféré : un café, un workflow **n8n** et un agent IA local (**Ollama**).
-- 📱 Je passe du **réseau & télécom** au **Flutter** sans transition — c'est ma zone de confort.
-- 🌍 Je construis des projets qui parlent de mon pays, le **Gabon** 🇬🇦.
-- 🔄 Ma devise de dev : *Code. Learn. Automate. Build. Repeat.*
-
-
-<!---line break---->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<!---line break---->
-
-<br>
-
-# 🌍 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/desmond-clos-guimapi-535a83277">
-  <img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:guimapidesmond@outlook.com">
-  <img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=discord"/>
-</a>
-
-</div>
-
-<!---line break---->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<!---line break---->
-
-<br>
-
-# 💡 Quote
-
-> **"Code. Learn. Automate. Build. Repeat."**
-
-<br>
-
-<hr color="navyblue">
-
-<p align="center">
-   <img align="center" src="https://i.ibb.co/fqMN3QP/technologist-desktop.gif" width="25%" alt="giphy">
-   <br>
-   <i>Don't Waste Time, get back to work.</i>
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:00C9FF&height=120&section=footer"/>
-</div>
+> Code. Learn. Automate. Build. Repeat.
